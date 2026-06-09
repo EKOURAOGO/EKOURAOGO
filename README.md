@@ -28,6 +28,9 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 | [Machine-Learning](https://github.com/EKOURAOGO/Machine-Learning) | TPs ML - ACP, clustering, KNN | Python · scikit-learn |
 | [EDA-ML-Process](https://github.com/EKOURAOGO/EDA-ML-Process) | Guide EDA structuré en 10 étapes | Python · Pandas |
 | [Streamlit](https://github.com/EKOURAOGO/Streamlit) | QCM Statistiques & Probabilités | Python · Streamlit |
+| [Regression-pls-nipals](https://github.com/EKOURAOGO/Regression-pls-nipals) | Dynamiques electorales & PLS — MCO, PCR, PLS1, PLS2 sur Presidentielle 2022 | R · pls · FactoMineR |
+| [structural-equation-modeling](https://github.com/EKOURAOGO/structural-equation-modeling) | SEM en R — PLS-PM, LISREL, lavaan, RFPC, CLV sur donnees ECSI | R · lavaan · plspm |
+| [Scala-data-analysis](https://github.com/EKOURAOGO/Scala-data-analysis) | Simulation tondeuses — OOP, immutabilite, pattern matching, foldLeft | Scala · sbt |
 
 ---
 
