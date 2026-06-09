@@ -19,13 +19,13 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Analyse-immobilier](https://github.com/EKOURAOGO/Analyse-immobilier) | Prime Verte IDF — scraping IAD France, OLS HC3, NLP, 1 839 annonces | Python · Selenium · Statsmodels |
-| [Bank-marketing-data-mining](https://github.com/EKOURAOGO/Bank-marketing-data-mining) | Prédiction souscription bancaire — EDA, Logit, RF, XGBoost, KMeans | R · tidymodels · XGBoost |
-| [Home-credit-scoring](https://github.com/EKOURAOGO/Home-credit-scoring) | Mémoire M2 — benchmark 7 modèles ML, CatBoost AUC 0.769 | Python · CatBoost · LightGBM |
-| [Scoring-credit-hmeq](https://github.com/EKOURAOGO/Scoring-credit-hmeq) | Scoring crédit HMEQ — imputation PMM, XGBoost | SAS · R · Python |
-| [Analyse-et-prediction-SPX-SP50](https://github.com/EKOURAOGO/Analyse-et-prediction-des-fluctuations-du-cours-du-SPX-SP50) | Prédiction S&P 500 — LSTM, Random Forest, Régression | Python · TensorFlow |
-| [Quiz-app-streamlit](https://github.com/EKOURAOGO/Quiz-app-streamlit) | App quiz OOP — Singleton, scoring proportionnel | Python · Streamlit |
-| [Machine-Learning](https://github.com/EKOURAOGO/Machine-Learning) | TPs ML — ACP, clustering, KNN | Python · scikit-learn |
+| [Analyse-immobilier](https://github.com/EKOURAOGO/Analyse-immobilier) | Prime Verte IDF - scraping IAD France, OLS HC3, NLP, 1 839 annonces | Python · Selenium · Statsmodels |
+| [Bank-marketing-data-mining](https://github.com/EKOURAOGO/Bank-marketing-data-mining) | Prédiction souscription bancaire - EDA, Logit, RF, XGBoost, KMeans | R · tidymodels · XGBoost |
+| [Home-credit-scoring](https://github.com/EKOURAOGO/Home-credit-scoring) | Benchmark 7 modèles ML, CatBoost AUC 0.769 | Python · CatBoost · LightGBM |
+| [Scoring-credit-hmeq](https://github.com/EKOURAOGO/Scoring-credit-hmeq) | Scoring crédit HMEQ - imputation PMM, XGBoost | SAS · R · Python |
+| [Analyse-et-prediction-SPX-SP50](https://github.com/EKOURAOGO/Analyse-et-prediction-des-fluctuations-du-cours-du-SPX-SP50) | Prédiction S&P 500 - LSTM, Random Forest, Régression | Python · TensorFlow |
+| [Quiz-app-streamlit](https://github.com/EKOURAOGO/Quiz-app-streamlit) | App quiz OOP - Singleton, scoring proportionnel | Python · Streamlit |
+| [Machine-Learning](https://github.com/EKOURAOGO/Machine-Learning) | TPs ML - ACP, clustering, KNN | Python · scikit-learn |
 | [EDA-ML-Process](https://github.com/EKOURAOGO/EDA-ML-Process) | Guide EDA structuré en 10 étapes | Python · Pandas |
 | [Streamlit](https://github.com/EKOURAOGO/Streamlit) | QCM Statistiques & Probabilités | Python · Streamlit |
 
