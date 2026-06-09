@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:ekouraogo73@gmail.com"><img src="https://img.shields.io/badge/ekouraogo73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/emmanuel-kouraogo-14717422a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Le%20Perreux--sur--Marne%2C%20Île--de--France-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%20Île--de--France-gray?style=flat-square"/>
 </p>
 
 ---
