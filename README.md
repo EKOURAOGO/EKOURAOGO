@@ -49,9 +49,9 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 ---
 
 ## Certifications
-- **IBM Data Science Professional Certificate** — Coursera · Mai 2025
-- **Google Advanced Data Analytics** — Google · Avr. 2025
-- **Certification AMF** — Score A : 91/100 · Oct. 2025
+- **IBM Data Science Professional Certificate** - Coursera · Mai 2025
+- **Google Advanced Data Analytics** - Google · Avr. 2025
+- **Certification AMF** - Score A : 91/100 · Oct. 2025
 
 ---
 
