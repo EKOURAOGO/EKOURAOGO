@@ -1,5 +1,5 @@
 <h1 align="center">Emmanuel KOURAOGO</h1>
-<h3 align="center">Data Analyst · Data Scientist · Finance Quantitative</h3>
+<h3 align="center">Data Analyst · Data Scientist </h3>
 
 <p align="center">
   <a href="mailto:ekouraogo73@gmail.com"><img src="https://img.shields.io/badge/ekouraogo73%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -12,22 +12,6 @@
 ## Profil
 
 Data Analyst spécialisé dans l'**exploitation de données massives** et la **modélisation prédictive** appliquée à la finance et aux politiques publiques. Expérience sur des bases administratives de plusieurs dizaines de millions d'observations (CNAF, DREES). Co-auteur de **2 publications scientifiques**.
-
----
-
-## Expériences
-
-**Data Analyst — DREES (Alternance)** · Oct. 2025 – Actuel · Paris
-> Production d'indicateurs statistiques sur les minima sociaux (RSA, AAH, APL) · Données CNAF +20M lignes/mois · Pipelines R automatisés · Environnement sécurisé CASD · Clustering k-means + régression logistique
-
-**Data Analyst — Agence du Service Civique (CDD)** · Mai 2024 – Sep. 2025 · Paris
-> 5 dashboards Tableau stratégiques · Migration Excel → Tableau · SQL datawarehouse · Modèles prédictifs Python/R
-
-**Statisticien — Ministère de l'Agriculture (CDD)** · Sep. 2023 – Avr. 2024 · Nantes
-> Traitement enquête nationale ESA · Scripts de cohérence statistique R/Excel
-
-**Chargé d'études — CNRS (Stage)** · Mars 2023 – Sep. 2023 · Paris
-> Analyses économétriques · Stata · 2 publications scientifiques
 
 ---
 
@@ -64,10 +48,7 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 ---
 
-## Formations & Certifications
-
-- **M2 IMSD** — Innovation, Marché et Sciences des Données · Université Paris-Saclay · 2025–2026
-- **M2 Économie Appliquée** — Économétrie-Statistiques · Université Paris Cité · 2021–2023
+## Certifications
 - **IBM Data Science Professional Certificate** — Coursera · Mai 2025
 - **Google Advanced Data Analytics** — Google · Avr. 2025
 - **Certification AMF** — Score A : 91/100 · Oct. 2025
