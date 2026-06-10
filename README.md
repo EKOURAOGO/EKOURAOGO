@@ -19,7 +19,7 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Analyse-immobilier](https://github.com/EKOURAOGO/Analyse-immobilier) | Prime Verte IDF - scraping IAD France, OLS HC3, NLP, 1 839 annonces | Python · Selenium · Statsmodels |
+| [Analyse-immobilier](https://github.com/EKOURAOGO/Analyse-immobilier) | Prime verte IDF - scraping IAD France, OLS HC3, NLP, 1 839 annonces | Python · Selenium · Statsmodels |
 | [Bank-marketing-data-mining](https://github.com/EKOURAOGO/Bank-marketing-data-mining) | Prédiction souscription bancaire - EDA, Logit, RF, XGBoost, KMeans | R · tidymodels · XGBoost |
 | [Home-credit-scoring](https://github.com/EKOURAOGO/Home-credit-scoring) | Benchmark 7 modèles ML, CatBoost AUC 0.769 | Python · CatBoost · LightGBM |
 | [Scoring-credit-hmeq](https://github.com/EKOURAOGO/Scoring-credit-hmeq) | Scoring crédit HMEQ - imputation PMM, XGBoost | SAS · R · Python |
