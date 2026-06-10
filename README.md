@@ -28,9 +28,9 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 | [Regression-pls-nipals](https://github.com/EKOURAOGO/Regression-pls-nipals) | PLS électorale - MCO, PCR, PLS1, PLS2 sur Présidentielle 2022 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![pls](https://img.shields.io/badge/PLS--NIPALS-orange?style=flat-square) ![FactoMineR](https://img.shields.io/badge/FactoMineR-red?style=flat-square) |
 | [Quiz-app-streamlit](https://github.com/EKOURAOGO/Quiz-app-streamlit) | App quiz OOP - Singleton, scoring proportionnel, session state | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-purple?style=flat-square) |
 | [Scala-data-analysis](https://github.com/EKOURAOGO/Scala-data-analysis) | Simulation tondeuses - OOP, immutabilité, pattern matching | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![sbt](https://img.shields.io/badge/sbt-orange?style=flat-square) |
-| [unsupervised-learning-clustering-pca](https://github.com/EKOURAOGO/unsupervised-learning-clustering-pca) | TPs ML - ACP, clustering KMeans & hiérarchique, KNN | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| [unsupervised-learning-clustering-pca](https://github.com/EKOURAOGO/Machine-Learning) | TPs ML - ACP, clustering KMeans & hiérarchique, KNN | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | [EDA-ML-Process](https://github.com/EKOURAOGO/EDA-ML-Process) | Guide EDA structuré en 10 étapes pour projets ML | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| [interactive-stats-quiz-streamlit](https://github.com/EKOURAOGO/interactive-stats-quiz-streamlit) | QCM Statistiques & Probabilités interactif | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| [interactive-stats-quiz-streamlit](https://github.com/EKOURAOGO/Streamlit) | QCM Statistiques & Probabilités interactif | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 ---
 
 ## Stack technique
@@ -95,14 +95,20 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 ## Certifications
 
-[![IBM](https://img.shields.io/badge/IBM_Data_Science_Professional-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
-**IBM Data Science Professional Certificate** · Coursera · Mai 2025
-
-[![Google](https://img.shields.io/badge/Google_Advanced_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white)](https://grow.google/certificates/advanced-data-analytics/)
-**Google Advanced Data Analytics** · Google · Avr. 2025
-
-[![AMF](https://img.shields.io/badge/Certification_AMF-Score_A:_91/100-009B77?style=flat-square)](https://www.amf-france.org/fr/certification-professionnelle)
-**Certification AMF** · Score A : **91/100** · Score C : 82/100 · Oct. 2025
+<table>
+  <tr>
+    <td><a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://img.shields.io/badge/IBM-Data_Science_Professional_Certificate-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/></a></td>
+    <td>Coursera &nbsp;·&nbsp; Mai 2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://grow.google/certificates/advanced-data-analytics/"><img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a></td>
+    <td>Google &nbsp;·&nbsp; Avr. 2025</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AMF-Certification_Professionnelle-009B77?style=for-the-badge&logo=academia&logoColor=white"/></td>
+    <td>Score A : <strong>91/100</strong> &nbsp;·&nbsp; Score C : 82/100 &nbsp;·&nbsp; Oct. 2025</td>
+  </tr>
+</table>
 
 ---
 
