@@ -124,10 +124,5 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EKOURAOGO&show_icons=true&theme=default&hide_border=true&count_private=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOURAOGO&layout=compact&theme=default&hide_border=true" height="155"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=EKOURAOGO&color=blue&style=flat-square"/>
 </p>
