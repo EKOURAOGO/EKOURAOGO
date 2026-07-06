@@ -19,6 +19,7 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| [NER-documents-administratifs](https://github.com/EKOURAOGO/NER-documents-administratifs) | **NLP · Reconnaissance d'entités nommées** — spaCy fr, 5 types d'entités, 480 exemples train, Macro F1 0.262, Inférence interactive | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4CAF50?style=flat-square) |
 | [Analyse-immobilier](https://github.com/EKOURAOGO/Analyse-immobilier) | Prime verte IDF - scraping IAD France, OLS HC3, NLP, 1 839 annonces | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Statsmodels](https://img.shields.io/badge/OLS_HC3-blue?style=flat-square) |
 | [Bank-marketing-data-mining](https://github.com/EKOURAOGO/Bank-marketing-data-mining) | Prédiction souscription bancaire - EDA, Logit, RF, XGBoost, KMeans | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat-square) ![tidymodels](https://img.shields.io/badge/tidymodels-blue?style=flat-square) |
 | [Home-credit-scoring](https://github.com/EKOURAOGO/Home-credit-scoring) | Benchmark 7 modèles ML, CatBoost AUC 0.769 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-blue?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-green?style=flat-square) |
@@ -37,7 +38,27 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 | [sql-interview-mastery](https://github.com/EKOURAOGO/sql-interview-mastery) | 64 requêtes SQL avancées testées - window functions, CTE récursives | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 ---
 
-## Stack technique
+### ⭐ Projet en vedette : NER sur Documents Administratifs
+
+**Reconnaissance d'Entités Nommées (NLP)** appliquée à des documents administratifs français
+
+- **Modèle** : spaCy (fr) — architecture Blank + entraînement personnalisé
+- **Dataset** : 480 exemples (80% train / 20% test)
+- **Entités** : 5 types (MONTANT, ORGANISME, DISPOSITIF, DURÉE, ZONE_GEO)
+- **Performances** :
+  - Macro F1 : **0.262** (5 entités)
+  - Précision moyenne : **0.301**
+  - Courbe de convergence : Loss final **56.59** après 30 itérations
+
+**Features** :
+- ✅ Inférence interactive
+- 📊 Dashboard de performances par type d'entité
+- 📈 Radar chart visualisation des métriques
+- 🔄 Courbe de convergence d'entraînement
+
+---
+
+
 
 **Langages**
 
