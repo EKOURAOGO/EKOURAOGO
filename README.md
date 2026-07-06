@@ -125,15 +125,34 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EKOURAOGO&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOURAOGO&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EKOURAOGO&theme=dracula&hide_border=false" alt="GitHub Streak" width="400"/>
-</p>
+### 🎯 Expertise & Contributions
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EKOURAOGO&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EKOURAOGO)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/EKOURAOGO)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/EKOURAOGO)
+[![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/EKOURAOGO)
+
+---
+
+### 📈 GitHub Performance
+
+<a href="https://github.com/EKOURAOGO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EKOURAOGO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOURAOGO&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages"/>
+</a>
+
+---
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EKOURAOGO&theme=dracula&hide_border=false&cache_seconds=1800)](https://github.com/EKOURAOGO)
+
+---
+
+### 👀 Profile Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=EKOURAOGO&color=blueviolet&style=flat-square)
+
+</div>
