@@ -123,6 +123,17 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EKOURAOGO&color=blue&style=flat-square"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EKOURAOGO&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOURAOGO&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EKOURAOGO&theme=dracula&hide_border=false" alt="GitHub Streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EKOURAOGO&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
