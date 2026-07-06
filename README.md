@@ -127,7 +127,7 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 <div align="center">
 
-### Expertise & Contributions
+### 🎯 Expertise & Compétences
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EKOURAOGO)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/EKOURAOGO)
@@ -136,22 +136,22 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 
 ---
 
-### GitHub performance
+### 📈 Statistiques GitHub
 
 <a href="https://github.com/EKOURAOGO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EKOURAOGO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOURAOGO&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EKOURAOGO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Statistiques GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EKOURAOGO&layout=compact&theme=dracula&cache_seconds=1800" alt="Langages principaux"/>
 </a>
 
 ---
 
-### Contribution streak
+### 🔥 Séquence de contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EKOURAOGO&theme=dracula&hide_border=false&cache_seconds=1800)](https://github.com/EKOURAOGO)
+[![Séquence GitHub](https://github-readme-streak-stats.herokuapp.com/?user=EKOURAOGO&theme=dracula&hide_border=false&cache_seconds=1800)](https://github.com/EKOURAOGO)
 
 ---
 
-### Profile activity
+### 👁️ Activité du profil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EKOURAOGO&color=blueviolet&style=flat-square)
 
