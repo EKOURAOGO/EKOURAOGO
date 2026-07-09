@@ -38,28 +38,6 @@ Data Analyst spécialisé dans l'**exploitation de données massives** et la **m
 | [sql-interview-mastery](https://github.com/EKOURAOGO/sql-interview-mastery) | 64 requêtes SQL avancées testées - window functions, CTE récursives | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 ---
 
-### ⭐ Projet en vedette : NLP-NER Admin
-
-**Reconnaissance d'Entités Nommées (NLP)** appliquée à des documents administratifs français
-
-- **Repo** : [nlp-ner-admin](https://github.com/EKOURAOGO/nlp-ner-admin)
-- **Modèle** : spaCy (fr) — architecture Blank + entraînement personnalisé
-- **Dataset** : 480 exemples (80% train / 20% test)
-- **Entités** : 5 types (MONTANT, ORGANISME, DISPOSITIF, DURÉE, ZONE_GEO)
-- **Performances** :
-  - Macro F1 : **0.262** (5 entités)
-  - Précision moyenne : **0.301**
-  - Courbe de convergence : Loss final **56.59** après 30 itérations
-
-**Features** :
-- ✅ Inférence interactive
-- 📊 Dashboard de performances par type d'entité
-- 📈 Radar chart visualisation des métriques
-- 🔄 Courbe de convergence d'entraînement
-
----
-
-
 
 **Langages**
 
